@@ -1,0 +1,23 @@
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px;
+  }
+
+  a.github-button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #24292e;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+
+  a.github-button:hover {
+    background-color: #444c56;
+  }
+</style>
